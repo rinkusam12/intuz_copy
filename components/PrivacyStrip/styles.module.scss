@@ -1,0 +1,37 @@
+.Cookie{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 12px 1px;
+    font-weight: 300;
+    background: #0e1f2f;
+    text-align: center;
+    z-index: 60;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    p{
+        font-size: 1.7rem;
+        margin: 0;
+        a{
+            color: #fff;
+            text-decoration: underline;
+            display: inline-block;
+            margin-left: 1rem;
+        }
+    }
+    button{
+        display: inline-block;
+        width: 2.5rem;
+        height: 2.5rem;
+        margin-left: 1.3rem;
+        img{
+            max-width: 100%;
+        }
+        outline: none;
+        border: none;
+        background: transparent;
+    }
+}

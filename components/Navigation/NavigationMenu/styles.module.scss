@@ -1,0 +1,16 @@
+.link{
+    color: #fff;
+    svg{
+        path, polygon{
+            fill: #fff;
+        }
+    }
+    &:hover{
+        color: #3cecec;
+        svg{
+            path, polygon{
+                fill:#3cecec;
+            }
+        }   
+    }
+}

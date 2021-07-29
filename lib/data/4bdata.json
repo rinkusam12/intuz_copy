@@ -1,0 +1,230 @@
+{
+  "casestudies": [
+    {
+      "name": "4B World",
+      "backcolor": "#1D437E",
+      "casestudymoreprojects": [],
+      "casestudybanner": {
+        "id": "605319deacd1294df90d9777",
+        "logo": { "name": "4blogo_a2e4982df5.png", "__typename": "UploadFile" },
+        "title": "4B  — A news platform enabling real-time fact-based, multi-view information",
+        "icons": [
+          { "name": "4bios_d12ef57151.svg", "__typename": "UploadFile" },
+          { "name": "4bandroid_94dd693c70.svg", "__typename": "UploadFile" }
+        ],
+        "__typename": "Casestudybanner"
+      },
+      "casestudyhighlightsection": {
+        "title": "Follow topics you like, create groups, and facilitate productive debates.",
+        "subtitle": "4b is a revolutionary app that brings people with different perspectives together on a single platform.",
+        "frame_folder": null,
+        "image": {
+          "name": "1animation_52d158b3a4.mp4",
+          "__typename": "UploadFile"
+        },
+        "AnimatedImage": false,
+        "casestudyhighlightsectionicons": [],
+        "casestudyhighlightblocks": [],
+        "__typename": "Casestudyhighlightsection"
+      },
+      "casestudyfeaturessection": {
+        "title": "Read, upvote, comment, and share your favorite viewpoints!",
+        "description": "Use the app to gain correct information on different news topics from opposing viewpoints. Embrace the whole picture &mdash; not just biased fragments.",
+        "image": {
+          "url": "https://intuz-com-react-live.s3.us-west-2.amazonaws.com/uploads/profile_2_2_1_3760c03595.png",
+          "name": "profile_2_2_1_3760c03595.png"
+        },
+        "video": {
+          "url": "https://intuz-com-react-live.s3.us-west-2.amazonaws.com/uploads/fourbfeaturesection_441c15c822.mp4",
+          "name": "fourbfeaturesection_441c15c822.mp4"
+        },
+        "fullpageimage": false,
+        "animatedImage": true,
+        "featurelist": [],
+        "__typename": "Casestudyfeaturessection"
+      },
+      "casestudyprojectchallenges": [
+        {
+          "title": "Custom interface with advanced social sharing components",
+          "description": "The entire app had to be designed and developed while keeping the end-user in mind. Since exchange of opinions and information is an essential part of the app, we also integrated features such as live poll and co-authoring articles to instill a sense of collaboration and community building.",
+          "icon": {
+            "url": "https://intuz-com-react-live.s3.us-west-2.amazonaws.com/uploads/animation3_63aecc258e.mp4",
+            "name": "animation3_63aecc258e.mp4",
+            "__typename": "UploadFile"
+          },
+          "fullpageimage": false,
+          "projectchallengesiconbox": [],
+          "__typename": "Casestudyprojectchallenge"
+        }
+      ],
+      "casestudydesignchallenge": null,
+      "casestudyengagement": {
+        "title": "Client Engagement",
+        "subtitile": "Intuz’s technical expertise and design process paved way for app success!",
+        "description": "Team Intuz delivered an end-to-end social sharing app, which was robust, intuitive, and dynamic. Loaded with desired advanced social sharing features for increased user engagement, we researched the industry trends and technologies extensively to deliver a wholesome social experience on the app.\n",
+        "image": {
+          "name": "juno_elienteng_750c1206dc.png",
+          "__typename": "UploadFile"
+        },
+        "__typename": "Casestudyengagement"
+      },
+      "process": {
+        "analysis": "When the client approached Intuz, they only had an idea about what they desired — a platform where people could connect and discuss both sides of trending topics across categories.\n\nThey wanted an interactive app that allowed people to upvote, poll, comment on original news content, view activity on others’ feeds, go on user profiles, and connect via individual and group messaging.\n\nTeam Intuz analyzed client requirements and planned a strategy to develop an intuitive, fact-based, multi-view platform — the ‘yang’ to the current media and news industry.",
+        "visualization": "Based on our research, we created a wireframe of the app and submitted it to the client. Team Intuz comprehensively explained to them the app’s workflow, including user features and navigation capabilities.",
+        "designing": "Once the wireframe was signed off, our designers created several app design options that matched the original concept.  Client feedback was critical as it helped us redesign the basic app patterns with stunning elements.\n\nWhen the client selected the suitable one, we tried various color combinations to see which helped the app stand out the most. During this phase, we communicated with them consistently and kept them updated about the progress.",
+        "development": "It was a critical task to build a customized home screen feed displaying articles. Moreover, we also built-in upvoting, live polling, co-authoring and commenting features.\n\nWe also incorporated a rewards-based program within the app which allows users to earn and redeem points for sharing their viewpoints and participating in forums and group discussions.\n\nThe client also wanted to give their users the freedom to make their profiles or groups public or private. The app also has robust security which keeps the messages exchanged between users and groups private and secure.",
+        "satisfaction": "The developed app was thoroughly tested and reviewed post which it was deployed. The client was happy with the work delivered by Intuz, and continues to work with us for further app enhancements — including adding new features and improving the overall experience. 4b has since quickly become a fast-growing platform for bringing people with different perspectives and backgrounds together.",
+        "internalreview": null,
+        "clientreview": null,
+        "launch": null,
+        "uiux": null,
+        "quickbloxintegration": null,
+        "awsdeployment": null,
+        "apprevenue": null,
+        "androiddevelopment": null,
+        "iphonedevelopment": null,
+        "research": null,
+        "marketing": null,
+        "discovery": null,
+        "gpssystemintegration": null,
+        "pushnotifications": null,
+        "loyaltybonusalgorithm": null,
+        "qa": null,
+        "monetize": null,
+        "deploy": null,
+        "discover": null,
+        "progressivedevelopment": null,
+        "__typename": "Process"
+      },
+      "casestudytechnicalspecs": [
+        {
+          "title": "iOS",
+          "icon": {
+            "url": "https://intuz-com-react-live.s3.us-west-2.amazonaws.com/uploads/tech_ios_063fee73c4.svg",
+            "__typename": "UploadFile"
+          },
+          "__typename": "Casestudytechnicalspec"
+        },
+        {
+          "title": "Android",
+          "icon": {
+            "url": "https://intuzstrapi.s3.amazonaws.com/uploads/case_android.svg",
+            "__typename": "UploadFile"
+          },
+          "__typename": "Casestudytechnicalspec"
+        },
+        {
+          "title": "NodeJS",
+          "icon": {
+            "url": "https://intuzstrapi.s3.amazonaws.com/uploads/tech_node.svg",
+            "__typename": "UploadFile"
+          },
+          "__typename": "Casestudytechnicalspec"
+        },
+        {
+          "title": "ReactJS",
+          "icon": {
+            "url": "https://intuzstrapi.s3.amazonaws.com/uploads/tech_react.svg",
+            "__typename": "UploadFile"
+          },
+          "__typename": "Casestudytechnicalspec"
+        },
+        {
+          "title": "Mongodb",
+          "icon": {
+            "url": "https://intuz-com-react-live.s3.us-west-2.amazonaws.com/uploads/mongo_030645f49b.png",
+            "__typename": "UploadFile"
+          },
+          "__typename": "Casestudytechnicalspec"
+        }
+      ],
+      "casestudytestimonial": null,
+      "casestudydevprocesses": [
+        {
+          "icon": {
+            "url": "https://intuzstrapi.s3.amazonaws.com/uploads/case_analysis.svg",
+            "__typename": "UploadFile"
+          },
+          "title": "Analysis",
+          "__typename": "Casestudydevprocess"
+        },
+        {
+          "icon": {
+            "url": "https://intuzstrapi.s3.amazonaws.com/uploads/case_visualization.svg",
+            "__typename": "UploadFile"
+          },
+          "title": "Visualization",
+          "__typename": "Casestudydevprocess"
+        },
+        {
+          "icon": {
+            "url": "https://intuzstrapi.s3.amazonaws.com/uploads/case_designing.svg",
+            "__typename": "UploadFile"
+          },
+          "title": "Designing",
+          "__typename": "Casestudydevprocess"
+        },
+        {
+          "icon": {
+            "url": "https://intuzstrapi.s3.amazonaws.com/uploads/case_development.svg",
+            "__typename": "UploadFile"
+          },
+          "title": "Development",
+          "__typename": "Casestudydevprocess"
+        },
+        {
+          "icon": {
+            "url": "https://intuzstrapi.s3.amazonaws.com/uploads/case_satisfaction.svg",
+            "__typename": "UploadFile"
+          },
+          "title": "Satisfaction",
+          "__typename": "Casestudydevprocess"
+        }
+      ],
+      "casestudyhighlightmenus": [
+        {
+          "name": "Highlights",
+          "link": "highlightsection",
+          "__typename": "Casestudyhighlightmenu"
+        },
+        {
+          "name": "App Features",
+          "link": "feature",
+          "__typename": "Casestudyhighlightmenu"
+        },
+        {
+          "name": "Project Challenges",
+          "link": "pchallenge",
+          "__typename": "Casestudyhighlightmenu"
+        },
+        {
+          "name": "Client Engagement",
+          "link": "engagement",
+          "__typename": "Casestudyhighlightmenu"
+        },
+        {
+          "name": "Design Challenges",
+          "link": "dchallenge",
+          "__typename": "Casestudyhighlightmenu"
+        },
+        {
+          "name": "Process",
+          "link": "process",
+          "__typename": "Casestudyhighlightmenu"
+        },
+        {
+          "name": "Tech Stack",
+          "link": "techstack",
+          "__typename": "Casestudyhighlightmenu"
+        },
+        {
+          "name": "Testimonial",
+          "link": "testimonial",
+          "__typename": "Casestudyhighlightmenu"
+        }
+      ],
+      "case_study_solution": null,
+      "__typename": "Casestudy"
+    }
+  ]
+}

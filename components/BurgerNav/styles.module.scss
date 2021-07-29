@@ -1,0 +1,54 @@
+.Burger{
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 0;
+    width: 40px;
+    height: 35px;
+    // display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    grid-template-rows: 2px 2px 2px;
+    transition: all 0.3s ease;
+    position: relative;
+    span{
+        display: block;
+        width: 20px;
+        height: 2px;
+        transition: all .3s ease-in;
+        // margin-top: 5px;
+        position: absolute;
+    }
+    span:nth-child(1) {
+       top: 8px;
+    }
+    span:nth-child(2) {
+        top: 16px;
+    }
+    span:nth-child(3) {
+        top: 24px;
+       
+    }
+}
+
+.item{
+    a{
+        color: #fff;
+    }
+    svg {
+        path{
+            fill: #fff;
+        }
+    }
+    &.active{
+        a{
+            color: #3cecec;
+        }
+        svg {
+            path{
+                fill: #3cecec;
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+// @import "../../sass/loader";
+
+
+.HeroCarousel {
+  @apply font-quicksand text-white z-10;
+
+  h4 {
+    @apply text-5xl mb-4 md:text-6xl leading-normal; 
+  }
+  span{
+    @apply my-2 md:my-4;
+  }
+  .appdevlopment {
+    @apply inline-block text-7xl md:text-8xl leading-normal font-semibold;
+  }
+  .webmobile {
+    @apply inline-block text-6xl md:text-7xl leading-normal;
+  }
+  .company {
+    @apply inline-block text-5xl md:text-6xl leading-normal;
+  }
+}

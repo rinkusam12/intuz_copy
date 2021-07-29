@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic_cloud</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_cloud" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashicons-cloud" transform="translate(4.000000, 7.000000)" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="Icon">
+                <path d="M17.9882353,6.66666667 C17.9882353,6.26666667 18.1176471,5.86666667 18.1176471,5.33333333 C18.1176471,2.4 15.7882353,0 12.9411765,0 C10.8705882,0 9.18823529,1.2 8.28235294,2.93333333 C8.02352941,2.8 7.50588235,2.66666667 7.11764706,2.66666667 C5.30588235,2.66666667 3.88235294,4.13333333 3.88235294,6 C3.88235294,6.26666667 3.88235294,6.53333333 4.01176471,6.66666667 C1.68235294,7.06666667 0,8.93333333 0,11.3333333 C0,13.8666667 2.07058824,16 4.52941176,16 L17.4705882,16 C19.9294118,16 22,13.8666667 22,11.3333333 C22,8.93333333 20.3176471,6.93333333 17.9882353,6.66666667 Z" id="Icon-Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

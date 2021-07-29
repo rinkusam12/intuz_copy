@@ -1,0 +1,20 @@
+@import '../../../sass/loader';
+
+.Button{
+    font-family: $primary-font;
+    outline: none;
+    border: none;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    &.purple{
+        background-color: #684574;
+        font-size: 1.5rem;
+        color: #fff;
+        font-weight: 600;
+        border-radius: 4px;
+        &:hover{
+            background-color: $primary-blue;
+
+        }
+    }
+}

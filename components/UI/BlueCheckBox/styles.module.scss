@@ -1,0 +1,52 @@
+.BlueCheckBox{
+    position: relative;
+    // display: inline-block;
+    margin-left: 0.5rem;
+    span{
+        position: absolute;
+        display: inline-block;
+        top: .4rem;
+        left: 0;
+        height: 2.2rem;
+        width: 2.2rem;
+        background-color: #eee;
+        transition: background 0.3s ease;
+    }
+    input{
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        left: 0;
+        top: 0;
+        margin-left: 0;
+        width: 3rem;
+        height: 3rem;
+        z-index: 2;
+
+        &:checked ~ span{
+            background-color: aqua;
+            &::after{
+                position: absolute;
+                content: "";
+                left: 0.9rem;
+                top: 0.5rem;
+                width: .5rem;
+                height: 1rem;
+                border: solid #fff;
+                border-width: 0 .3rem .3rem 0;
+                transform: rotate(45deg);
+            }
+        }
+    }
+    label{
+        font-size: 2rem;
+        line-height: 2.9rem;
+        color: #0e1f2f;
+        font-weight: 300;
+        position: relative;
+        padding-left:2rem;
+        white-space: nowrap; 
+    }
+   
+
+}

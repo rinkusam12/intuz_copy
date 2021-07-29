@@ -1,0 +1,38 @@
+.mb-mx{
+    margin-bottom: 7rem !important;
+}
+.mt-mx{
+    margin-top: 7rem !important;
+}
+.mb-md{
+    margin-bottom: 5rem !important;
+}
+.mt-md{
+    margin-top: 5rem !important;
+}
+.mb-sm{
+    margin-bottom: 3rem !important;
+}
+.mt-sm{
+    margin-top: 3rem !important;
+}
+
+.blog-image img{
+    max-width: 30% !important;
+}
+
+.code-image img {
+    max-width: 50% !important;
+}
+
+.fresnel-container {
+    width: 100%;
+}
+.pd-8{
+    padding: 8rem 0;
+}
+@media (max-width: 767px) {
+    .blog-image img, .code-image img {
+        max-width: 80% !important;
+    }
+}

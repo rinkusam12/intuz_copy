@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 43</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="39.5219714%" cy="60.4206964%" fx="39.5219714%" fy="60.4206964%" r="52.719469%" id="radialGradient-1">
+            <stop stop-color="#00FFD1" offset="0%"></stop>
+            <stop stop-color="#3CECEC" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Intuz-Ai" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-268.000000, -6228.000000)">
+        <g id="Group-52-Copy-2" transform="translate(268.000000, 6222.000000)">
+            <g id="Group-43" transform="translate(0.000000, 6.000000)">
+                <circle id="Oval-19" fill="url(#radialGradient-1)" cx="14.5" cy="14.5" r="14.5"></circle>
+                <path d="M8.83333333,15 L23,15 L23,18 L8.83333333,18 L6,18 L6,9 L8.83333333,9 L8.83333333,15 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(14.500000, 13.500000) rotate(-45.000000) translate(-14.500000, -13.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

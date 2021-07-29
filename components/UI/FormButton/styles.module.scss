@@ -1,0 +1,32 @@
+@import '../../../sass/loader';
+
+.FormButton{
+    &.contactform, &.ReactForm {
+        text-align: center;
+    }
+    &.applicationform {
+        text-align: right;
+    }
+    button{
+        padding: .8rem 2.5rem;
+        border-radius: 7px;
+        display: inline-block;
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #fff;
+        outline: none;
+        border: none;
+        transition: background 0.3s ease;
+        font-family: $primary-font;
+        &:last-child{
+            background: #b9c9d9;
+            &:hover{
+                background: #3cecec;
+            }
+        }
+        &:first-child{
+            background: #3cecec;
+            margin-right: 2rem;
+        }
+    }
+}

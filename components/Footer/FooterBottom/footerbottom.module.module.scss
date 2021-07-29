@@ -1,0 +1,24 @@
+@import '../../../sass/loader';
+
+.CopyrightBlock {
+    font-family:$primary-font;
+    padding-top: 5rem;   
+    color: #8e9ba7;
+    color: #2e3b48;
+    font-size: 15px;
+    text-align: center;
+    a { 
+        color: #2e3b48; 
+        font-size: 15px;
+        cursor: pointer;
+        &:hover{
+            text-decoration: none;
+        }
+
+     }
+    span {  color: #2e3b48; }
+
+    img {
+        margin-top: .7rem;
+    }
+}

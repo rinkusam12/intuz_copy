@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>menu_fullstack</title>
+    <desc>Created with Sketch.</desc>
+    <g id="menu_fullstack" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="icomoon-free:stack" transform="translate(5.000000, 6.000000)" fill-rule="nonzero">
+            <g id="Icon">
+                <path d="M15.499,0.194 L30.985,7.937 L15.499,15.679 L0.013,7.936 L15.499,0.194 Z M15.5,1.422 L2.465,7.937 L15.5,14.452 L28.534,7.937 L15.5,1.422 Z" id="Icon-Shape"></path>
+                <polygon id="Path" points="1.57108635 13.7868381 1.43696436 13.7868127 0.0114737846 14.498942 15.431918 22.2091641 15.566082 22.2091641 30.9864102 14.499 29.562082 13.7868359 29.4279098 13.78684 15.499 20.751"></polygon>
+                <polygon id="Path" points="1.57108635 19.7868381 1.43696436 19.7868127 0.0114737846 20.498942 15.431918 28.2091641 15.566082 28.2091641 30.9864102 20.499 29.562082 19.7868359 29.4279098 19.78684 15.499 26.751"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
