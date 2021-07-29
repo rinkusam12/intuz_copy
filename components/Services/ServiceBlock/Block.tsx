@@ -8,7 +8,7 @@ const Block = (props) => {
   return (
     <div className={`${props.className} ${styles.ServicesBlock}`}>
           <div style={{ height: "100px", width: "80px", position: "relative", margin: "0 auto" }}>
-            <Image sizes="5vw" alt="Service Block" layout="fill" loader={myLoader} objectFit="contain" src={props.imgSrc} />
+            <Image sizes="5vw" alt="Service Block" layout="fill" objectFit="contain" src={props.imgSrc} />
           </div>
 
           <div>

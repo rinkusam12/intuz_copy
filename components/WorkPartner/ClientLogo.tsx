@@ -7,7 +7,7 @@ import classes from './WorkPartner.module.scss';
 const ClientLogo:React.FC<{ imgSrc: string; alt: string; }> = (props) => {
     return (
         <div className={classes.ClientLogo}>
-            <Image objectFit="contain" height={220} width={120} layout="intrinsic" loader={myLoader}  src={props.imgSrc} alt={props.alt} />
+            <Image objectFit="contain" height={220} width={120} layout="intrinsic"  src={props.imgSrc} alt={props.alt} />
         </div>
     )
 }

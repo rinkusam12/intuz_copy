@@ -17,7 +17,7 @@ const MoreGuideDesign = (props) => {
                         <img src={`${props.imgSrc}?fm=pjpg&auto=format,compress`} alt={props.alt} />
     </LazyLoad> */}
 
-                    <Image layout="fill" alt={props.caption} loader={myLoader} src={props.imgSrc.split("https://intuz-site.imgix.net/uploads/")[1]} width={70} height={60} />
+                    <Image layout="fill" alt={props.caption} src={props.imgSrc.split("https://intuz-site.imgix.net/uploads/")[1]} width={70} height={60} />
 
                     <figcaption>{props.caption}</figcaption>
                 </figure>

@@ -8,7 +8,7 @@ const PrivacyStrip = (props) => {
             <p className="flex items-center text-justify">
             We use cookies to provide and improve our services. By using our site, you consent to cookies. 
             <a href="/privacy-policy" className="whitespace-nowrap px-3">Know More</a>
-            <button className="mx-3" onClick={props.onAccept}><Image loader={myLoader} layout="fixed" width={20} height={20} src="close-popup.png" alt="Close Popup"/></button>
+            <button className="mx-3" onClick={props.onAccept}><Image layout="fixed" width={20} height={20} src="close-popup.png" alt="Close Popup"/></button>
             </p>
         </div>
     )

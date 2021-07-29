@@ -8,7 +8,7 @@ const Resource = (props) => {
             <a className={"text-16 leading-normal text-center"} style={{color:"#060f19"}} ref={props.myRef} aria-label={props.alt}>
                 <figure onClick={props.onClick}>
                     <div className="shadow-2xl">
-                        <Image sizes="50vw" alt={props.caption} className="rounded-lg" loader={myLoader} src={props.imgSrc} layout="responsive" width={600} height={350} />
+                        <Image sizes="50vw" alt={props.caption} className="rounded-lg" src={props.imgSrc} layout="responsive" width={600} height={350} />
                     </div>
                     <figcaption className="pt-8 mx-3">{props.caption}</figcaption>
                 </figure>
