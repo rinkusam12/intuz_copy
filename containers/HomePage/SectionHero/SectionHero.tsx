@@ -6,7 +6,7 @@ const SectionHero = () => {
 
     return (
         <section className="h-[80vh] relative flex items-center justify-center text-center">
-            <Image sizes="35vw" alt="Homepage Banner" layout="fill" objectFit="cover" src={"/banner01.jpg"} />
+            <Image sizes="50vw" alt="Homepage Banner" priority={true} layout="fill" objectFit="cover" src={"/banner01.jpg"} />
             <HeroCarousel />
         </section>
     )
